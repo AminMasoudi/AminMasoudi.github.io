@@ -1,2 +1,0 @@
-# AminMasoudi.github.io
-qwerty
