@@ -2,7 +2,6 @@ site_name: My personal site
 site_url: https://aminmasoudi.github.io
 plugins:
   - search
-  - blog
 
 theme:
   name: material
