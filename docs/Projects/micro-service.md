@@ -36,7 +36,7 @@ The app consists of 6 micro-services:
 2. **Auth**: Handles authentication and token validation using JWT.
 3. **Converter**: Transforms MP4 videos into MP3 audio files.
 4. **Notify**: Sends email notifications upon conversion completion.
-5. **Video Upload **: Handles video uploads and validates tokens.
+5. **rabbitmq**: Handles queue for converter and notify service.
 
 ## Technologies
 
