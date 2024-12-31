@@ -18,7 +18,6 @@ you can find my resume in [here](./cv_embeded.html) or just **download** it from
 
     an example project showcasing micro-service system design concepts.
 
-
 ## Get in touch
 If you want to say hello, share feedback, or collaborate on a project, please feel free to reach out:
 
@@ -30,4 +29,5 @@ If you want to say hello, share feedback, or collaborate on a project, please fe
 Thank you for visiting my site! I hope you enjoy your time here.
 
 **Best,**
+
 Amin masoudi
