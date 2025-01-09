@@ -9,7 +9,7 @@
 
 **Objective:**
 
-Your task is to design and implement a program that analyzes a social network represented as a graph. The program should allow users to input the graph, specify query parameters, and retrieve meaningful insights about the network.
+The task is to design and implement a program that analyzes a social network represented as a graph. The program should allow users to input the graph, specify query parameters, and retrieve meaningful insights about the network.
 
 **Graph Representation:**
 
@@ -48,7 +48,4 @@ collaborations).
 3. Usability and intuitiveness of the user interface.
 4. Clarity and organization of the written report.
 5. Creativity and originality in approach to problem-solving.
-
-This project allows you to demonstrate your understanding of graph data structures, as well as your ability to design and implement algorithms for traversing, clustering, and analyzing graphs.
-
 
