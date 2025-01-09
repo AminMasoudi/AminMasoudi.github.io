@@ -1,7 +1,7 @@
 ---
-- state: future project
-- start: 23 january 2025
-- estimate time: 3 weeks
+state: future project
+start: 23 january 2025
+estimate time: 3 weeks
 ---
 # Graph-Based Social Network Analysis
 
