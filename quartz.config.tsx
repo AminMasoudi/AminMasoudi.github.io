@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
     configuration: {
-      pageTitle: "grito",
+      pageTitle: "Beneath the Abstraction",
       enableSPA: true,
       enablePopovers: true,
       baseUrl: "aminmasoudi.github.io",
@@ -17,27 +17,34 @@ const config: QuartzConfig = {
         },
         colors: {
           lightMode: {
-              light: "#FeF5ee",
-              lightgray: "#e5e5e5",
-              gray: "#b8b8b8",
-              darkgray: "#4e4e4e",
-              dark: "#2b2b2b",
-              secondary: "#9e9856",
-              tertiary: "#565222",
-              highlight: "rgba(124, 118, 170, 0.15)",
+            light: "#FeF5ee",
+            lightgray: "#e5e5e5",
+            gray: "#b8b8b8",
+            darkgray: "#4e4e4e",
+            dark: "#2b2b2b",
+            secondary: "#9e9856",
+            tertiary: "#565222",
+            highlight: "rgba(124, 118, 170, 0.15)",
+            textHighlight: ""
           },
           darkMode: {
-              light: "#161618",
-              lightgray: "#393639",
-              gray: "#646464",
-              darkgray: "#d4d4d4",
-              dark: "#ebebec",
-              secondary: "#C1988D",
-              tertiary: "#F1C8BD",
-              highlight: "rgba(124, 118, 170, 0.15)",
+            light: "#161618",
+            lightgray: "#393639",
+            gray: "#646464",
+            darkgray: "#d4d4d4",
+            dark: "#ebebec",
+            secondary: "#C1988D",
+            tertiary: "#F1C8BD",
+            highlight: "rgba(124, 118, 170, 0.15)",
+            textHighlight: ""
           },
         },
+        cdnCaching: false,
+        fontOrigin: "googleFonts"
       },
+      analytics: null,
+      generateSocialImages: false,
+      locale: "en-US"
     },
     plugins: {
       transformers: [
@@ -56,7 +63,7 @@ const config: QuartzConfig = {
       filters: [Plugin.RemoveDrafts()],
       emitters: [
         Plugin.AliasRedirects(),
-        Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+        Plugin.ComponentResources(),
         Plugin.ContentPage(),
         Plugin.FolderPage(),
         Plugin.TagPage(),

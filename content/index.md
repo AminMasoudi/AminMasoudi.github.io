@@ -1,33 +1,54 @@
 ---
-title: Welcome to my site
+title: Welcome to Layer 0
 ---
 
-Hi, I'm Amin, a backend developer and student of computer science with a passion for developing and solving problems. When I'm not 
-working, you can find me climbing.
 
-## Resume
-you can find my resume in [here](./cv_embeded.html) or just **download** it from [here](./cv.pdf).
+Hi, I’m Amin — a backend developer and computer science student who enjoys building clean systems, solving complex problems, and working close to the metal.
 
-## Projects
-- [[Api Gateway]]
-    
-    an API Gateway built using **Starlette** and **HTTPX**.
+When I’m not coding, I’m probably halfway up a rock wall. Whether in code or climbing, I care about structure, stability, and the satisfaction of solving challenges from the ground up.
+
+---
+
+## 📄 Resume
+
+You can view my resume [here](./cv_embeded.html) or **download it** directly  [here](./cv.pdf).
+
+---
 
 
-- [[msd| mp4 to mp3 Converter - A Micro-Services Example]]
+## 🛠️ Code & Systems(*Projects*)
 
-    an example project showcasing micro-service system design concepts.
+- [[Api Gateway | API Gateway]]
 
-## Get in touch
-If you want to say hello, share feedback, or collaborate on a project, please feel free to reach out:
+    A lightweight API gateway built with **Starlette** and **HTTPX**, designed to handle routing and request management for microservices.
 
-* Email: aminmasoudi2003@gmail.com
-* Telegram: [@amin_masoudi_123](https://t.me/amin_masoudi_123)
-* LinkedIn: [amin-masoudi](https://www.linkedin.com/in/amin-masoudi/)
-* Github: [aminmasoudi](https://github.com/AminMasoudi/)
+- [[msd | MP4 to MP3 Converter]]
 
-Thank you for visiting my site! I hope you enjoy your time here.
+    A sample project demonstrating **microservices architecture** and asynchronous job handling, ideal for showcasing system design fundamentals.
 
-**Best,**
+- [[SNA | Social Network Analysis Tool]] 
 
-Amin masoudi
+    Graph-Based Social Network Analysis Tool + Visualization with d3.js 
+--- 
+
+## Thoughts & Threads
+- [[Understanding Networks: A Foundation]]
+
+---
+
+
+## 🤝 Get in Touch
+
+I’m always open to new opportunities, collaborations, or just a good conversation. Feel free to reach out:
+
+- 📧 Email: aminmasoudi2003@gmail.com
+
+- [💬 Telegram](https://t.me/amin_masoudi_123)
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/amin-masoudi/)
+
+- [🐙 GitHub](https://github.com/AminMasoudi/)
+
+Thanks for stopping by. This site is a small reflection of what I’m building, learning, and exploring — beneath the abstraction.
+
+— **Amin**
