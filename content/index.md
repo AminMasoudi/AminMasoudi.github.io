@@ -11,7 +11,7 @@ When I’m not coding, I’m probably halfway up a rock wall. Whether in code or
 
 ## 📄 Resume
 
-You can view my resume [here](./cv_embeded.html) or **download it** directly  [here](./cv.pdf).
+You can view my resume [here](./cv_emb/cv.html) or **download it** directly  [here](./cv.pdf).
 
 ---
 
